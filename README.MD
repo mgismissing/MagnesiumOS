@@ -1,5 +1,5 @@
 # MagnesiumOS
-Why should'nt anyone create a new operative system from scratch?
+Why shouldn't anyone create a new operative system from scratch?
 ## Installation
 ### Method 1: Boot from a CD
 Burn the .iso file on a CD / DVD.  
