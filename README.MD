@@ -12,4 +12,4 @@ Decompile the program yourself.
 Maybe. Try gently asking in the Issues section. Tag your question with "enhancement".
 ## Is there support for...?
 There is direct support only for the computers I have, VirtualBox and QEMU.  
-While there is no support for other machines, you can still create an issue and I will try my best to fix your problem. If it still doesn't work, just make your own OS (It's extremely easy! Look at me, I'm afraid of switching to extended mode because I don't know how to code a keyboard driver...)
+While there is no support for other machines, you can still create an issue and I will try my best to fix your problem. If it still doesn't work, just make your own OS! (It's extremely easy! Look at me, I'm afraid of switching to extended mode because I don't know how to code a keyboard driver...)
